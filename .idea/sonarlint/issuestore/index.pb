@@ -9,3 +9,5 @@ T
 $contracts/inspection-scheduling.clar,a/2/a2185c1b31568dbfaa00c1dc8a33ecd58769090d
 R
 "contracts/maintenance-rewuest.clar,e/8/e813d807e6b5a8181eca00113a81f4ce5c0dcb7d
+P
+ contracts/work-verification.clar,5/d/5d83cf7e2b99675b2f688b1c68d90e8f1b13173b
